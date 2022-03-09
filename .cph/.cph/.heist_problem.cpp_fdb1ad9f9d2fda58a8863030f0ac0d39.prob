@@ -1,0 +1,1 @@
+{"name":"Local: heist_problem","url":"e:\\cpp\\.cph\\heist_problem.cpp","tests":[{"id":1623073711254,"input":"3\n2 1 1 1\n3 2 1 1\n5 2 1 2\n","output":"3\n4\n13\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cpp\\.cph\\heist_problem.cpp","group":"local","local":true}

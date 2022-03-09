@@ -1,0 +1,8 @@
+{
+    "code-runner.runInTerminal": true,
+    "editor.codeLens": false,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

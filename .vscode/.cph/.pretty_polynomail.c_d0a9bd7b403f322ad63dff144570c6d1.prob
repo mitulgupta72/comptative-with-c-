@@ -1,0 +1,1 @@
+{"name":"Local: pretty_polynomail","url":"e:\\cpp\\.vscode\\pretty_polynomail.c","tests":[{"id":1642613905907,"input":"3\n-1 2 -3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cpp\\.vscode\\pretty_polynomail.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: reverse_the_number","url":"e:\\cpp\\.vscode\\reverse_the_number.cpp","tests":[{"id":1642590793904,"input":"4\n12345\n31203\n2123\n2300","output":"54321\n30213\n3212\n32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cpp\\.vscode\\reverse_the_number.cpp","group":"local","local":true}
