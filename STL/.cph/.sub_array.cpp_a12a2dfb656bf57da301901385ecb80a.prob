@@ -1,0 +1,1 @@
+{"name":"Local: sub_array","url":"d:\\MITUL CPP\\STL\\sub_array.cpp","tests":[{"id":1665656155071,"input":"4\n7\n1111111\n6\n000011\n6\n010101\n6\n110011","output":"16\n20\n19\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\MITUL CPP\\STL\\sub_array.cpp","group":"local","local":true}
